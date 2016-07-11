@@ -1,0 +1,6 @@
+---
+  applications:
+    - buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+      host: francispowlesland
+      name: francis-web
+      memory: 32M
