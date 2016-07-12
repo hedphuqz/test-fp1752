@@ -3,4 +3,4 @@
     - buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
       host: francispowlesland
       name: francis-web
-      memory: 32M
+      memory: 64M
